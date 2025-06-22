@@ -1,0 +1,3 @@
+rootProject.name = 'smartbazaar'
+
+include 'discovery-server', 'api-gateway', 'product-service', 'price-service', 'shared-library'
